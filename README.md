@@ -1,10 +1,10 @@
 # Hello world! I'm Ana👋
 
-## Software Developer and Project Manager
+## Software Developer and IT Project Manager
 
 ### About Me
 -  🌱 I’m currently a student at **42 Madrid**.
--  📈​ I'm deepening my knowledge in **C** & **C++** programming and developing skills as a **Project Manager**. 
+-  📈​ I'm deepening my knowledge in **C** & **C++** programming and developing skills as a **IT Project Manager**. 
 -  👀 Although my previous experience is more oriented towards video game programming, i've discovered a strong passion for **software development** and **cybersecurity**.
  - 💻​ I'm excited to explore new technologies, collaborate on interesting projects, and continue learning in this fascinating industry.
 
